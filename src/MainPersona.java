@@ -1,4 +1,4 @@
-public class Main {
+public class MainPersona {
     public static void main(String[] args) {
         Persona  personaJuan = new Persona("juan", 17, "cc123");
         //objeto mateo
